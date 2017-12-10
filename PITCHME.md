@@ -87,8 +87,6 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 #### Challenge 1...!?
 <br>
 - Learn [Scrapy](https://scrapy.org/)! |
-- <span class="darkgray"> Openrice limits... </span> |
-- <span class="darkgray"> Bad html formats </span> |
 
 +++
 
