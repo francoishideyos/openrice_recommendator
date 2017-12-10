@@ -23,18 +23,26 @@
 
 #### What to <span class="gray">Eat?</span>
 
-
 <br>
 
 #### Familiar with <span class="gold">Openrice?</span>
 #### Familiar with <span class="gold">Netfilx?</span>
 
----?code=assets/md/hello.md&title=Step 1. PITCHME.md
-
 <br>
-#### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
 
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
++++
+
+Anybody who loves to eat (and rate)
+
+---
+
+@title[Summary]
+
+#### - Goals?
+	- Predict the right restaurants to users
+
+
+<span class="aside">Not that easy!</span>
 
 ---
 
