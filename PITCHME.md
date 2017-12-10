@@ -38,10 +38,10 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 @title[Summary - Part 1]
 
-#### Goals?
+#### Goals? |
 
 <br>
-- Predict the right restaurants to users
+- Predict the right restaurants to users |
 
 <br>
 
