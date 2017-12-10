@@ -1,10 +1,11 @@
 @title[Cover Page]
 
-# Recon<span class="gold">mendation</span>
+# Reco<span class="gold">mend</span>
 
 #### Creating a recommendator for Openrice users
 <br>
 <br>
+
 <span class="byline">Lyoe Lee - Dec 2017</span>
 
 ---
@@ -14,14 +15,18 @@
 #### Openrice <span class="gold">Recommendation</span> 
 #### Try to recommend a restaurant
 #### to users
-<br>
-<span class="aside">It could be you...</span>
 
----
-
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
 <br>
+
+<span class="aside">Press down for more...</span>
+
++++
+
+#### What to <span class="gray">Eat?</span>
+
+
+<br>
+
 #### Just <span class="gold">Markdown</span>.
 #### Then <span class="gold">Git-Commit</span>.
 
