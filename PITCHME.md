@@ -107,7 +107,6 @@ class JsonWriterPipeline(object):
         self.file.write(line)
         return item
 
-
 class ExtractSpider(scrapy.Spider):
     name = "Extract"
     start_urls = review_urls
@@ -162,10 +161,10 @@ process.crawl(ExtractSpider)
 process.start()
 
 ```
-@[1-13](Add your PITCHME.md slideshow content file.)
-@[14-23](Commit PITCHME.md to your local repo.)
-@[50](Push PITCHME.md to your public repo and you're done!)
-@[51](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+@[1-13](Define a class, saving in JSON)
+@[14-24](Define a Extracting Spider, defining the urls to scrape)
+@[25-60](Defining the xpath/css to scrape and store in JSON)
+@[61-](Scrape the website)
 
 ---
 
