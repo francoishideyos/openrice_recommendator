@@ -48,10 +48,9 @@ Anybody who loves to eat (and rate)
 #### Steps?
 - Scrape top rated restuarants from Openrice
 
-+++
++++?image=assets/pic/openrice_restaurant_search.png
 
-
-![Image-Absolute](assets/pic/openrice_restaurant_search.png)
+<!-- ![Image-Absolute](assets/pic/openrice_restaurant_search.png) -->
 
 
 +++
