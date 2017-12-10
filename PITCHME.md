@@ -1,15 +1,15 @@
-@title[Introduction]
+@title[Cover Page]
 
-# Git<span class="gold">Pitch</span>
+# Openrice<span class="gold">Recoomendation</span>
 
-#### Markdown Presentations For Everyone on Git.*
+#### Creating a recommendator for Openrice users
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="byline">Lyoe Lee - Dec 2017</span>
 
 ---
 
-@title[PITCHME.md]
+@title[Outline]
 
 #### GitPitch turns <span class="gold">PITCHME.md</span> into
 #### interactive,
