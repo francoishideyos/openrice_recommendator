@@ -38,7 +38,7 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 @title[Summary - Part 1]
 
-#### Goals? |
+#### Goals?
 
 <br>
 - Predict the right restaurants to users |
@@ -54,8 +54,7 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 <br>
 
-- Scrape top rated restuarants from Openrice
-- <span class="darkgray"> Get each reviews and ratings</span>
+- Scrape top rated restuarants from Openrice |
 
 +++?image=assets/pic/openrice_restaurant_search.png
 
@@ -68,7 +67,7 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 <br>
 
 - <span class="darkgray"> Scrape top rated restuarants from Openrice</span>
-- Get each reviews and ratings
+- Get each reviews and ratings |
 
 +++?image=assets/pic/openrice_user_review.png
 
@@ -78,7 +77,8 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 #### Data!
 <br>
 
-- Scrape all these data down
+- Scrape all these data down |
+- Before showing the data... |
 
 ---
 
@@ -86,12 +86,13 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 #### Challenge 1...!?
 <br>
-- Learn [Scrapy](https://scrapy.org/)!
-- <span class="darkgray"> Openrice limits... </span>
-	-<span class="darkgray">  Each region only loads at most 17 pages...</span>
-- <span class="darkgray"> Bad html formats </span>
+- Learn [Scrapy](https://scrapy.org/)! |
+- <span class="darkgray"> Openrice limits... </span> |
+- <span class="darkgray"> Bad html formats </span> |
 
 +++
+
+### Scrapy 101:<span class="gold"> Some Codes</span>
 
 ```python
 class JsonWriterPipeline(object):
@@ -162,9 +163,18 @@ process.start()
 
 ```
 @[1-13](Define a class, saving in JSON)
-@[14-24](Define a Extracting Spider, defining the urls to scrape)
-@[25-60](Defining the xpath/css to scrape and store in JSON)
-@[61-](Scrape the website)
+@[14-24](Define a Extracting Spider, defining the URLs to scrape)
+@[25-59](Defining the xpath/css to scrape and store in JSON)
+@[60-](Actual scraping of websites)
+
++++ 
+
+#### Challenge 1...!?
+<br>
+- Learn [Scrapy](https://scrapy.org/)! |
+- Openrice limits...|
+	- Only up to 17 pages per Region! | 
+- <span class="darkgray"> Bad html consistency... </span> |
 
 ---
 
