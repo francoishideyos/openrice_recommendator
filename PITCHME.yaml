@@ -1,2 +1,4 @@
-theme : night
+# theme : night
 theme-override : assets/css/PITCHME.css
+transition : fade #[convex, concave, default, fade, none, slide, zoom]
+slide-number : true
