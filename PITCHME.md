@@ -26,8 +26,8 @@
 
 <br>
 
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
+#### Familiar with <span class="gold">Openrice?</span>
+#### Familiar with <span class="gold">Netfilx?</span>
 
 ---?code=assets/md/hello.md&title=Step 1. PITCHME.md
 
