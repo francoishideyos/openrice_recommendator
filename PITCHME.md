@@ -162,6 +162,11 @@ process.crawl(ExtractSpider)
 process.start()
 
 ```
+@[1-13](Add your PITCHME.md slideshow content file.)
+@[14-23](Commit PITCHME.md to your local repo.)
+@[50](Push PITCHME.md to your public repo and you're done!)
+@[51](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+
 ---
 
 @title[Step 2. Git-Commit]
