@@ -38,12 +38,12 @@ Anybody who loves to eat (and rate)
 
 @title[Summary]
 
-- Goals?
-	- Predict the right restaurants to users
+@[1]- Goals?
+@[2]	- Predict the right restaurants to users
 
-- Steps?
-	- Scrape data off Openrice
-	- 
+@[3]- Steps?
+@[4]	- Scrape data off Openrice
+	 
 
 <span class="aside">Not that easy!</span>
 
