@@ -39,10 +39,10 @@ Anybody who loves to eat (and rate)
 @title[Summary]
 
 @[1](- Goals?)
-@[2](	- Predict the right restaurants to users)
+@[1](	- Predict the right restaurants to users)
 
-@[3](- Steps?)
-@[4](	- Scrape data off Openrice)
+@[2](- Steps?)
+@[2](	- Scrape data off Openrice)
 	 
 <span class="aside">Not that easy!</span>
 
