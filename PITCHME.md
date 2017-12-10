@@ -38,18 +38,27 @@ Anybody who loves to eat (and rate)
 
 @title[Summary]
 
-@[1](- Goals?)
-@[1](	- Predict the right restaurants to users)
+#### Goals?
+- Predict the right restaurants to users
 
-@[2](- Steps?)
-@[2](	- Scrape data off Openrice)
-	 
-<span class="aside">Not that easy!</span>
+<span class="aside">Not that easy....</span>
 
 +++
 
-- Data?
-	- [Openrice.com](https://www.openrice.com/en/hongkong)
+#### Steps?
+- Scrape top rated restuarants from Openrice
+
++++
+
+
+![Image-Absolute](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-privateinvestocat.jpg)
+
+
++++
+
+#### Steps?
+- Scrape top rated restuarants from Openrice
+- Get each reviews and ratings
 ---
 
 @title[Step 2. Git-Commit]
