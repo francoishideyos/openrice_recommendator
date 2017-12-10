@@ -11,11 +11,11 @@
 
 @title[Outline]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
+#### Openrice <span class="gold">Recommendation</span> 
+#### Try to recommend a restaurant
+#### to users
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside">It could be you...</span>
 
 ---
 
