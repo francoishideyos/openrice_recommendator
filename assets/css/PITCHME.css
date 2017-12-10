@@ -6,6 +6,10 @@
   color: gray;
 }
 
+.darkgray {
+  color: #333333;
+}
+
 span.byline, span.aside {
   color: #bbb;
 }

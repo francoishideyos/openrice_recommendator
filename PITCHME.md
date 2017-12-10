@@ -47,7 +47,7 @@ Anybody who loves to eat (and rate)
 
 #### Steps?
 - Scrape top rated restuarants from Openrice
-<span class="gray">- Get each reviews and ratings</span>
+- <span class="darkgray"> Get each reviews and ratings</span>
 
 +++?image=assets/pic/openrice_restaurant_search.png
 
@@ -56,10 +56,15 @@ Anybody who loves to eat (and rate)
 +++
 
 #### Steps?
-<span class="gray">- Scrape top rated restuarants from Openrice</span>
+- <span class="darkgray"> Scrape top rated restuarants from Openrice</span>
 - Get each reviews and ratings
 
 +++?image=assets/pic/openrice_user_review.png
+
++++
+
+#### Data?
+- Scrape all these data down
 
 ---
 
