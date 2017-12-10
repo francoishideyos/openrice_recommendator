@@ -51,7 +51,7 @@ Anybody who loves to eat (and rate)
 +++
 
 
-![Image-Absolute](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-privateinvestocat.jpg)
+![Image-Absolute](assets/pic/openrice_restaurant_search.png)
 
 
 +++
