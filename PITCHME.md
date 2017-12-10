@@ -13,8 +13,7 @@
 @title[Outline]
 
 #### Openrice <span class="gold">Recommendation</span> 
-#### Try to recommend a restaurant
-#### to users
+##### Goal: Try to recommend a restaurant to users
 
 <br>
 
