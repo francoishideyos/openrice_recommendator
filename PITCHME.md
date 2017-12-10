@@ -38,12 +38,19 @@ Anybody who loves to eat (and rate)
 
 @title[Summary]
 
-#### - Goals?
+- Goals?
 	- Predict the right restaurants to users
 
+- Steps?
+	- Scrape data off Openrice
+	- 
 
 <span class="aside">Not that easy!</span>
 
++++
+
+- Data?
+	- [Openrice.com](https://www.openrice.com/en/hongkong)
 ---
 
 @title[Step 2. Git-Commit]
