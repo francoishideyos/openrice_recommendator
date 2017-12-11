@@ -215,7 +215,7 @@ process.start()
 
 @title[Summary - Data Tables]
 
-<table>
+<table width=100%>
   <tr>
     <th class="fragment">Name</th>
     <th class="fragment">Review URL</th>
