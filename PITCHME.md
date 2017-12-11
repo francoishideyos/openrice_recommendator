@@ -345,7 +345,7 @@ process.start()
 
 - Calculate how "similar" a pair of users/items are |
 - Using metrics such as "cosine" etc. from sklearn |
-- @fa[frown-o] |
+@fa[frown-o]
 - Doesn't scale to real-world scenarios |
 - Bad at dealing with Sparse matrix |
 <br>
@@ -364,9 +364,20 @@ process.start()
 
 ### <span class="gold">Sparcity</span>??
 
+<br>
+
++++?image=assets/pic/sparse_matrix.png
++++?image=assets/pic/sparse_matrix_demeaned.png
+
 +++
+
 ### <span class="gold">Model</span>-based Collaborative Filtering
 
+
+k = latent factor 
+
+latent factor:
+a variable that we cannot directly observe but it’s possible to estimate
 
 +++
 
