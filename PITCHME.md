@@ -221,23 +221,21 @@ process.start()
     <th class="fragment">Review URL</th>
     <th class="fragment">District</th>
     <th class="fragment">District ID</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>25</td>
-  </tr>
-  <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>43</td>
+    <th class="fragment">Category</th>
+    <th class="fragment">Category ID</th>
+    <th class="fragment">Price UI</th>
+    <th class="fragment">Address</th>
+    <th class="fragment">Review Count</th>
+    <th class="fragment">Smile</th>
+    <th class="fragment">Cry</th>
+    <th class="fragment">Bookmark Count</th>
+    <th class="fragment">Overall Score</th>
+    <th class="fragment">Latitude</th>
+    <th class="fragment">Longitude</th>
   </tr>
 </table>
+
++++?image=assets/pic/openrice_restaurant_search.png
 
 ---
 @title[Step 2. Git-Commit]
