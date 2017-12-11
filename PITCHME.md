@@ -273,6 +273,9 @@ process.start()
 - Review Count |
 - Overall Score |
 
+<br>
+@fa[arrow-down]
+
 +++?image=assets/pic/restaurant_district.png
 
 +++?image=assets/pic/restarant_price.png
@@ -291,30 +294,28 @@ process.start()
 <br>
 #### User reviews
 
+<br>
+@fa[arrow-down]
+
 +++?image=assets/pic/user_district.png
 +++?image=assets/pic/restaurant_district.png
 
 ---
+@title[Modelling Approach]
 
-@title[Step 2. Git-Commit]
+### <span class="gold">Model</span>
 
-### <span class="gold">STEP 2. GIT-COMMIT</span>
-<br>
-
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+- [Surprise Library](http://surpriselib.com/) |
+	- <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine |
 
 ---
+@title[Model Results]
+
+---
+@title[Conclusion]
+
+---
+@title[Future/Next Steps]
 
 @title[Step 3. Done!]
 
