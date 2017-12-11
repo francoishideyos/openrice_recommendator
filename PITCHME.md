@@ -173,7 +173,24 @@ process.start()
 - Learn [Scrapy](https://scrapy.org/)!
 - Openrice limits...|
 	- Only up to 17 pages per Region! | 
-- Bad html consistency... |
+- <span class="darkgray"> Bad html consistency... </span>
+
++++?image=assets/pic/openrice_17_page_limit.png
+
++++
+
+#### Challenge 1...!?
+<br>
+
+- Learn [Scrapy](https://scrapy.org/)!
+- Openrice limits...|
+	- Only up to 17 pages per Region! | 
+- Bad html consistency...
+
+
++++?image=assets/pic/openrice_html_inconsistency.png
+
++++?image=assets/pic/openrice_html_stars.png
 
 ---
 
