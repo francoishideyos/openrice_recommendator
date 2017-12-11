@@ -185,7 +185,7 @@ process.start()
 - Learn [Scrapy](https://scrapy.org/)!
 - Openrice limits...|
 	- Only up to 17 pages per Region! | 
-- Bad html consistency...
+- Bad html consistency... |
 
 
 +++?image=assets/pic/openrice_html_inconsistency.png
