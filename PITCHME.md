@@ -17,7 +17,8 @@
 
 <br>
 
-<span class="aside">Press down for more...</span>
+@fa[arrow-down](Press down for more...)
+<!-- <span class="aside">Press down for more...</span> -->
 
 +++
 
@@ -26,11 +27,15 @@
 <br>
 
 #### Familiar with <span class="gold">Openrice?</span>
-#### Familiar with <span class="gold">Netfilx?</span>
+<!-- #### Familiar with <span class="gold">Netfilx?</span> -->
 
 <br>
 
+@fa[arrow-down]
+
 +++
+
+#### <span class="gold">Who?</span>
 
 Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate</span>)
 
@@ -47,6 +52,7 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 <span class="aside">Not that easy....</span>
 
+@fa[arrow-down]
 
 +++
 
@@ -55,6 +61,8 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 <br>
 
 - Scrape top rated restuarants from Openrice |
+
+@fa[arrow-down]
 
 +++?image=assets/pic/openrice_restaurant_search_first.png
 
@@ -70,6 +78,8 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 - <span class="darkgray"> Scrape top rated restuarants from Openrice</span>
 - Get each reviews and ratings |
+
+@fa[arrow-down]
 
 +++?image=assets/pic/openrice_user_review_first.png
 
@@ -91,6 +101,8 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 #### Challenge 1...!?
 <br>
 - Learn [Scrapy](https://scrapy.org/)! |
+
+@fa[arrow-down]
 
 +++
 
@@ -179,6 +191,8 @@ process.start()
 	- Only up to 17 pages per Region! | 
 - <span class="darkgray"> Bad html consistency... </span>
 
+@fa[arrow-down]
+
 +++?image=assets/pic/openrice_17_page_limit.png
 
 +++
@@ -187,10 +201,11 @@ process.start()
 <br>
 
 - Learn [Scrapy](https://scrapy.org/)!
-- Openrice limits...|
-	- Only up to 17 pages per Region! | 
+- Openrice limits...
+	- Only up to 17 pages per Region!
 - Bad html consistency... |
 
+@fa[arrow-down]
 
 +++?image=assets/pic/openrice_html_inconsistency.png
 
@@ -198,6 +213,32 @@ process.start()
 
 ---
 
+@title[Summary - Data Tables]
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>25</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>Doe</td>
+    <td>43</td>
+  </tr>
+</table>
+
+---
 @title[Step 2. Git-Commit]
 
 ### <span class="gold">STEP 2. GIT-COMMIT</span>
