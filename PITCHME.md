@@ -217,9 +217,10 @@ process.start()
 
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th class="fragment">Name</th>
+    <th class="fragment">Review URL</th>
+    <th class="fragment">District</th>
+    <th class="fragment">District ID</th>
   </tr>
   <tr>
     <td>Jill</td>
