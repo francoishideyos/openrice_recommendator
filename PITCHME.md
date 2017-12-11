@@ -56,6 +56,8 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 - Scrape top rated restuarants from Openrice |
 
++++?image=assets/pic/openrice_restaurant_search_first.png
+
 +++?image=assets/pic/openrice_restaurant_search.png
 
 <!-- ![Image-Absolute](assets/pic/openrice_restaurant_search.png) -->
@@ -68,6 +70,8 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 - <span class="darkgray"> Scrape top rated restuarants from Openrice</span>
 - Get each reviews and ratings |
+
++++?image=assets/pic/openrice_user_review_first.png
 
 +++?image=assets/pic/openrice_user_review.png
 
