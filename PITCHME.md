@@ -50,7 +50,7 @@ Anybody who loves to <span class="gold">eat</span> (and <span class="gold">rate<
 
 <br>
 
-<span class="aside">Not that easy....</span>
+<!-- <span class="aside">Not that easy....</span> -->
 
 @fa[arrow-down]
 
@@ -189,6 +189,7 @@ process.start()
 - Learn [Scrapy](https://scrapy.org/)!
 - Openrice limits...|
 	- Only up to 17 pages per Region! | 
+	- So I did only 3 regions (Hong Kong, Kowloon, New Territories) |
 - <span class="darkgray"> Bad html consistency... </span>
 
 @fa[arrow-down]
@@ -200,9 +201,24 @@ process.start()
 #### Challenge 1...!?
 <br>
 
+##### In the end...
+
+<br>
+
+- 600 Top reviewed restaurants |
+- 160,000 individual user reviews |
+
+@fa[arrow-down]
+
++++
+
+#### Challenge 1...!?
+<br>
+
 - Learn [Scrapy](https://scrapy.org/)!
 - Openrice limits...
 	- Only up to 17 pages per Region!
+	- So I did only 3 regions (Hong Kong, Kowloon, New Territories)
 - Bad html consistency... |
 
 @fa[arrow-down]
@@ -215,7 +231,7 @@ process.start()
 
 @title[Summary - Data Tables]
 
-<table width=100%>
+<!-- <table>
   <tr>
     <th class="fragment">Name</th>
     <th class="fragment">Review URL</th>
@@ -233,11 +249,53 @@ process.start()
     <th class="fragment">Latitude</th>
     <th class="fragment">Longitude</th>
   </tr>
-</table>
+</table> -->
+
++++?image=assets/pic/restaurant_table.png
 
 +++?image=assets/pic/openrice_restaurant_search.png
 
++++?image=assets/pic/user_table.png
+
++++?image=assets/pic/openrice_user_review.png
+
 ---
+
+@title[Model Insights: Visualization]
+
+### <span class="gold">Exploratory Data Analysis (EDA)</span>
+
+<br>
+
+#### Restaurant overall
+- District |
+- Prices |
+- Review Count |
+- Overall Score |
+
++++?image=assets/pic/restaurant_district.png
+
++++?image=assets/pic/restarant_price.png
+
++++?image=assets/pic/restaurant_review_count.png
+
++++?image=assets/pic/restaurant_review_table.png
+
++++?image=assets/pic/restaurant_overall_score.png
+
++++?image=assets/pic/restaurant_score_table.png
+
+---
+
+### <span class="gold">Exploratory Data Analysis (EDA)</span>
+<br>
+#### User reviews
+
++++?image=assets/pic/user_district.png
++++?image=assets/pic/restaurant_district.png
+
+---
+
 @title[Step 2. Git-Commit]
 
 ### <span class="gold">STEP 2. GIT-COMMIT</span>
