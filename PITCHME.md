@@ -163,16 +163,17 @@ process.start()
 @[1-13](Define a class, saving in JSON)
 @[14-24](Define a Extracting Spider, defining the URLs to scrape)
 @[25-59](Defining the xpath/css to scrape and store in JSON)
-@[60-](Actual scraping of websites)
+@[60-65](Actual scraping of websites)
 
 +++ 
 
 #### Challenge 1...!?
 <br>
-- Learn [Scrapy](https://scrapy.org/)! |
+
+- Learn [Scrapy](https://scrapy.org/)!
 - Openrice limits...|
 	- Only up to 17 pages per Region! | 
-- <span class="darkgray"> Bad html consistency... </span> |
+- Bad html consistency... |
 
 ---
 
