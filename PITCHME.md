@@ -307,38 +307,58 @@ process.start()
 ---
 @title[Modelling Approach]
 
-### Recommender system <span class="gold">Models</span>
-
-- Content Based |
-	- If you are browsing at a <span class="gold"> gold T-shirt </span>, recommend other T-shirts or <span class="gold"> gold sweater </span> |
+### Challenge <span class="gold">2.. ?!</span>
 <br>
-
-- Collaborative filtering |
-	- User based |
-		- Users similar to me also looked at these items |
-	- Item based |
-		- Users who looked at my item also looked at these other items |
-
 <br>
-
-- Hybrid |
+#### Recommender system <span class="gold">Models</span>
 
 +++
-### <span class="gold">Collaborative</span> Filtering
 
-- Memory based algo |
-	- Calculate how "similar" a pair of users/items are |
-	- Using metrics such as "cosine" etc. from sklearn |
-	- @fa[frown-o] |
-	- Doesn't scale to real-world scenarios |
-	- Bad at dealing with Sparse matrix |
+### <span class="gold">Content </span>Based
+
+- If you are browsing at a <span class="gold"> gold T-shirt </span>, recommend other T-shirts or <span class="gold"> gold sweater </span> |
 <br>
 
-- Model based algo |
-	- Matrix factorization |
-	- Unsupervised learning method |
-	- Deal better with scalability and sparsity |
++++
 
+### <span class="gold">Collaborative </span>Filtering
+
+- User based |
+	- Users similar to me also looked at these items |
+
+<br>
+
+- Item based |
+	- Users who looked at my item also looked at these other items |
+
++++
+
+### <span class="gold">Hybrid</span> 
+
++++
+
+### <span class="gold">Collaborative</span> Filtering...?!?
+
++++
+
+### <span class="gold">Memory based</span> Algo
+
+- Calculate how "similar" a pair of users/items are |
+- Using metrics such as "cosine" etc. from sklearn |
+- @fa[frown-o] |
+- Doesn't scale to real-world scenarios |
+- Bad at dealing with Sparse matrix |
+<br>
+
++++
+
+### <span class="gold">Model based</span> Algo
+
+- Matrix factorization |
+- Unsupervised learning method |
+- Deal better with scalability and sparsity |
+
+<br>
 
 +++
 
