@@ -1,6 +1,6 @@
 @title[Cover Page]
 
-# Reco<span class="gold">mend</span>
+# Recom<span class="gold">mend</span>
 
 #### Creating a recommendator for Openrice users
 <br>
@@ -205,8 +205,9 @@ process.start()
 
 <br>
 
-- 600 Top reviewed restaurants |
-- 160,000 individual user reviews |
+- 600+ Top reviewed restaurants |
+- 160,000+ individual user reviews |
+- 8000+ separate URLs |
 
 @fa[arrow-down]
 
@@ -306,7 +307,50 @@ process.start()
 ---
 @title[Modelling Approach]
 
-### <span class="gold">Model</span>
+### Recommender system <span class="gold">Models</span>
+
+- Content Based |
+	- If you are browsing at a <span class="gold"> gold T-shirt </span>, recommend other T-shirts or <span class="gold"> gold sweater </span> |
+<br>
+
+- Collaborative filtering |
+	- User based |
+		- Users similar to me also looked at these items |
+	- Item based |
+		- Users who looked at my item also looked at these other items |
+
+<br>
+
+- Hybrid |
+
++++
+### <span class="gold">Collaborative</span> Filtering
+
+- Memory based algo |
+	- Calculate how "similar" a pair of users/items are |
+	- Using metrics such as "cosine" etc. from sklearn |
+	- @fa[frown-o] |
+	- Doesn't scale to real-world scenarios |
+	- Bad at dealing with Sparse matrix |
+<br>
+
+- Model based algo |
+	- Matrix factorization |
+	- Unsupervised learning method |
+	- Deal better with scalability and sparsity |
+
+
++++
+
+### <span class="gold">Sparcity</span>??
+
++++
+### <span class="gold">Model</span>-based Collaborative Filtering
+
+
++++
+
+### <span class="gold">New package</span>
 
 - [Surprise Library](http://surpriselib.com/) |
 	- <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine |
@@ -319,6 +363,8 @@ process.start()
 
 ---
 @title[Future/Next Steps]
+
+---
 
 @title[Step 3. Done!]
 
@@ -343,17 +389,6 @@ process.start()
 #### Your Slideshow is Part of Your Project
 #### Under Git Version Control within Your Git Repo
 
----
-
-@title[Feature Rich]
-
-### <span class="gold">Feature Rich</span>
-
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
 
 ---
 
