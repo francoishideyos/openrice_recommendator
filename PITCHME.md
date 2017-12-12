@@ -316,7 +316,8 @@ process.start()
 
 ### <span class="gold">Content </span>Based
 
-- If you are browsing at a <span class="gold"> gold T-shirt </span>, recommend other T-shirts or <span class="gold"> gold sweater </span> |
+If you are browsing at a <span class="gold"> gold T-shirt </span>, recommend other T-shirts or <span class="gold"> gold sweater </span>
+
 <br>
 
 +++
@@ -344,7 +345,7 @@ process.start()
 ### <span class="gold">Memory based</span> Algo
 
 - Calculate how "similar" a pair of users/items are |
-- Using metrics such as "cosine" etc. from sklearn |
+- Using metrics such as "cosine" etc. from sklearn to measure "distance/similarity" |
 @fa[frown-o]
 - Doesn't scale to real-world scenarios |
 - Bad at dealing with Sparse matrix |
@@ -367,24 +368,27 @@ process.start()
 <br>
 
 +++?image=assets/pic/sparse_matrix.png
-+++?image=assets/pic/sparse_matrix_demeaned.png
 
 +++
 
 ### <span class="gold">Model</span>-based Collaborative Filtering
 
+Singular Value Decomposition (SVD)!
 
-k = latent factor 
+<br>
 
-latent factor:
-a variable that we cannot directly observe but it’s possible to estimate
+Similar to PCA:
+
+Dimension reduction
+
+<!-- +++?image=assets/pic/sparse_matrix_demeaned.png -->
 
 +++
 
 ### <span class="gold">New package</span>
 
 - [Surprise Library](http://surpriselib.com/) |
-	- <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine |
+- <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine |
 
 ---
 @title[Model Results]
@@ -394,31 +398,6 @@ a variable that we cannot directly observe but it’s possible to estimate
 
 ---
 @title[Future/Next Steps]
-
----
-
-@title[Step 3. Done!]
-
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
-<br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
-<br>
-<br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
----
-
-@title[Slide Rich]
-
-### <span class="gold">Slide Rich</span>
-
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
-<br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
 
 
 ---
