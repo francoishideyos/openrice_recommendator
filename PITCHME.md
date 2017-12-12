@@ -425,13 +425,13 @@ Take user <span class="gold">'supersupergirl'</span>
 
 Recommendation is HARD
 
-+++
+<!-- +++
 
 ### New <span class="gold">package</span>
 
 [Surprise Library](http://surpriselib.com/)
 - <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine
-
+ -->
 ---
 @title[Future/Next Steps]
 
