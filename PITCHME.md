@@ -385,16 +385,40 @@ Dimension reduction
 
 +++
 
-### <span class="gold">New package</span>
+### New <span class="gold">package</span>
 
-- [Surprise Library](http://surpriselib.com/) |
-- <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine |
+[Surprise Library](http://surpriselib.com/)
+- <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine
 
 ---
 @title[Model Results]
 
+### <span class="gold">Error </span>wise:
+<br>
+
+Mean RMSE: 3.3885
+
+<br>
+
+Out of total score of 27.0
+
++++
+
+### Predictions/<span class="gold">Recommendations </span>:
+
+<br>
+
+Take user <span class="gold">'supersupergirl'</span>
+
+<br>
+
++++?image=assets/pic/supersupergirl_prediction_results.png
+
++++?image=assets/pic/mandymanlovefoodie_prediction_results.png
+
 ---
 @title[Conclusion]
+
 
 ---
 @title[Future/Next Steps]
