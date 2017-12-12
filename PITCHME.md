@@ -379,21 +379,23 @@ Singular Value Decomposition (SVD)!
 
 Similar to PCA:
 
-Dimension reduction
+(A method for) Dimensionality reduction
+
+<br>
+
+Scipy package: svds
 
 <!-- +++?image=assets/pic/sparse_matrix_demeaned.png -->
-
-+++
-
-### New <span class="gold">package</span>
-
-[Surprise Library](http://surpriselib.com/)
-- <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine
 
 ---
 @title[Model Results]
 
-### <span class="gold">Error </span>wise:
+### Model <span class="gold">Results: </span>
+
+<br>
+
+Error Wise:
+
 <br>
 
 Mean RMSE: 3.3885
@@ -419,14 +421,28 @@ Take user <span class="gold">'supersupergirl'</span>
 ---
 @title[Conclusion]
 
+### <span class="gold">Conclusions: </span>
+
+Recommendation is HARD
+
++++
+
+### New <span class="gold">package</span>
+
+[Surprise Library](http://surpriselib.com/)
+- <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine
 
 ---
 @title[Future/Next Steps]
 
+### <span class="gold">Next Steps: </span>
+
+Build 2.0:
+
+Build in penalties for Districts/Prices/Categories
+
++++?image=assets/pic/mandymanlovefoodie_prediction_results_2.0.png
 
 ---
 
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
+### <span class="gold">Thank </span>you!!
