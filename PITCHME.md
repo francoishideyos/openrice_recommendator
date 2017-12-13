@@ -430,7 +430,7 @@ Build 2.0:
 
 Build in penalties for Districts/Prices/Categories
 
-+++?image=assets/pic/mandymanlovefoodie_prediction_results_2.0.png
++++?image=assets/pic/mandymanlovefoodie_prediction_results_2.0.png&size=contain
 
 +++
 
