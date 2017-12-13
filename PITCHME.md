@@ -1,6 +1,6 @@
 @title[Cover Page]
 
-# Recom<span class="gold">mend</span>
+# Recom<span class="gold">mendation!</span>
 
 #### Creating a recommendator for Openrice users
 <br>
