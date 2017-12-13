@@ -402,9 +402,9 @@ Take user <span class="gold">'supersupergirl'</span>
 
 <br>
 
-+++?image=assets/pic/supersupergirl_prediction_results.png
++++?image=assets/pic/supersupergirl_prediction_results.png&size=contain
 
-+++?image=assets/pic/mandymanlovefoodie_prediction_results.png
++++?image=assets/pic/mandymanlovefoodie_prediction_results.png&size=contain
 
 ---
 @title[Conclusion]
