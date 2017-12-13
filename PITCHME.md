@@ -392,18 +392,6 @@ Scipy package: svds
 
 ### Model <span class="gold">Results: </span>
 
-<br>
-
-Error Wise:
-
-<br>
-
-Mean RMSE: 3.3885
-
-<br>
-
-Out of total score of 27.0
-
 +++
 
 ### Predictions/<span class="gold">Recommendations </span>:
@@ -432,6 +420,7 @@ Recommendation is HARD
 [Surprise Library](http://surpriselib.com/)
 - <span class="gold">S</span>imple <span class="gold">P</span>ython <span class="gold">R</span>ecommendat<span class="gold">I</span>on <span class="gold">S</span>ystem <span class="gold">E</span>ngine
  -->
+ 
 ---
 @title[Future/Next Steps]
 
@@ -442,6 +431,18 @@ Build 2.0:
 Build in penalties for Districts/Prices/Categories
 
 +++?image=assets/pic/mandymanlovefoodie_prediction_results_2.0.png
+
++++
+
+Play around with hyperparameters, grid search etc.
+
+A high 'k' in SVD brings better results for some users
+
++++
+
+Final playing around (before I slept...) :
+
+Out of the top 50 users who submitted the most reviews, the model recommended 842 out of 1141 restaurants (1141 restaurants from testing set) 
 
 ---
 
