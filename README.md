@@ -4,13 +4,10 @@
 This is an attempt in building a recommendation engine for Openrice.
 
 
-
-[Jupyter Notebook](./Openrice_Recommendation_script.ipynb) shows the steps on scraping the openrice website.
-
+This [Jupyter Notebook](./Openrice_Recommendation_script.ipynb) shows the steps on scraping the openrice website.
 
 
 Other csv files in this repositary are the data files I used. 
-
 
 
 In general, I used SVD from Scipy to perform my recommendation engine. 
