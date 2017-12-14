@@ -3,11 +3,14 @@
 <br>
 This is an attempt in building a recommendation engine for Openrice.
 
+
 <br>
 "Openrice Recommendation script.ipynb" shows the steps on scraping the openrice website.
 
+
 <br>
 Other csv files in this repositary are the data files I used. 
+
 
 <br>
 In general, I used SVD from Scipy to perform my recommendation engine. 
