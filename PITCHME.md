@@ -392,7 +392,7 @@ Scipy package: svds
 
 ### Model <span class="gold">Results: </span>
 
-+++
++++ 
 
 ### Predictions/<span class="gold">Recommendations </span>:
 
