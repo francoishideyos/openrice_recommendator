@@ -5,7 +5,7 @@ This is an attempt in building a recommendation engine for Openrice.
 
 
 <br>
-[Jupyter Notebook](..blob/master/Openrice_Recommendation_script.ipynb) shows the steps on scraping the openrice website.
+[Jupyter Notebook](./Openrice_Recommendation_script.ipynb) shows the steps on scraping the openrice website.
 
 
 <br>
