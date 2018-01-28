@@ -13,7 +13,7 @@ I also added additional features where I adjust the recommendation engine to tak
 
 Here's a brief [presentation](https://gitpitch.com/lyoelee/openrice_recommendator) I put together
 
-p.s. Version 2.0 is ongoing...
+## p.s. Version 2.0 is ongoing... Please stay tuned
 
 Features include:
 - separate .py files for different scraping steps
